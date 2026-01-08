@@ -32,4 +32,4 @@ User → CloudFront (HTTPS) → S3 Bucket (Static Files)
 - Importance of Default Root Object in CloudFront
 
 ## Live URL
-https://YOUR_CLOUDFRONT_URL
+https://dk0369n3zfjer.cloudfront.net
